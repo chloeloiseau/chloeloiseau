@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chloeloiseau
-- 👀 I’m interested in bacterial genomics, infectious diseases, public health and programming !
+- 👀 I’m interested in bacterial genomics, antimicrobial resistance, infectious diseases, public health and programming !
 - 📫 How to reach me chloemarie.loiseau@gmail.com
 
 <!---
